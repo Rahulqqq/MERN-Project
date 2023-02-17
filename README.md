@@ -11,11 +11,13 @@ Usage
 Contributing
 License
 Features
+
 Users can browse products
 Users can add products to their cart
 Users can check out and place orders
 Admins can add new products to the store
 Admins can view orders and mark them as fulfilled
+
 Requirements
 
 Node.js
@@ -24,7 +26,8 @@ Installation
 Clone the repository
 bash
 Copy code
-git clone https://github.com/your-username/e-commerce-project.git
+git clone https://github.com/Rahulqqq/MERN-Project.git
+
 Install dependencies
 Copy code
 npm install
@@ -32,6 +35,7 @@ Set environment variables
 Create a .env file in the root directory of the project and add the following environment variables:
 makefile
 Copy code
+
 MONGODB_URI=<your-mongodb-uri>
 Seed the database (optional)
 If you want to seed the database with some initial data, run the following command:
