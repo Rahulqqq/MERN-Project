@@ -1,11 +1,11 @@
 # MERN-Project
 
-E-commerce Project
+##E-Commerce Project
 This is an e-commerce project that allows users to order products.
 
-Table of Contents
-Features
-Requirements
+##Table of Contents
+#####Features
+#####Requirements
 Installation
 Usage
 Contributing
