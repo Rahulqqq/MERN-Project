@@ -59,5 +59,5 @@ As an admin, you can add new products to the store and view orders.
 ## Contributing
 Contributions are welcome! Please create a pull request with your changes.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
