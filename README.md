@@ -50,7 +50,7 @@ sql
 Copy code
 npm start
 Open the application in your browser
-Go to http://localhost:3000 to view the application.
+Go to Link(updating soon) to view the application.
 
 Use the application
 As a user, you can browse products, add them to your cart, and place orders.
