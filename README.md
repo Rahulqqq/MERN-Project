@@ -5,13 +5,13 @@
 This is an e-commerce project that allows users to order products.
 
 ## Table of Contents
-##### Features
-##### Requirements
-Installation
-Usage
-Contributing
-License
-Features
+###Features
+### Requirements
+### Installation
+### Usage
+### Contributing
+### License
+### Features
 
 Users can browse products
 Users can add products to their cart
@@ -19,7 +19,7 @@ Users can check out and place orders
 Admins can add new products to the store
 Admins can view orders and mark them as fulfilled
 
-Requirements
+## Requirements
 
 Node.js
 MongoDB
@@ -29,7 +29,8 @@ bash
 Copy code
 git clone https://github.com/Rahulqqq/MERN-Project.git
 
-Install dependencies
+## Install dependencies
+
 Copy code
 npm install
 Set environment variables
@@ -42,7 +43,8 @@ Seed the database (optional)
 If you want to seed the database with some initial data, run the following command:
 Copy code
 npm run seed
-Usage
+  
+## Usage
 Start the server
 sql
 Copy code
@@ -54,8 +56,8 @@ Use the application
 As a user, you can browse products, add them to your cart, and place orders.
 As an admin, you can add new products to the store and view orders.
 
-Contributing
+## Contributing
 Contributions are welcome! Please create a pull request with your changes.
 
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for more information.
