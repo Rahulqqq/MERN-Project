@@ -56,5 +56,5 @@ As a user, you can browse products, add them to your cart, and place orders.
 As an admin, you can add new products to the store and view orders.
 
 ## Contributing
-Contributions are welcome! Please create a pull request with your changes.
+Contributions are welcome! Please create a pull request with your changes
 
