@@ -25,17 +25,18 @@ MongoDB
 Installation
 Clone the repository
 bash
-Copy code
+
 git clone https://github.com/Rahulqqq/MERN-Project.git
 
 ## Install dependencies
 
-Copy code
-npm install
+for Backend : npm i
+
+For Frontend : npm i
+
 Set environment variables
-Create a .env file in the root directory of the project and add the following environment variables:
-makefile
-Copy code
+Create a .env file(config file) in the root directory of the project and add the following environment variables:
+
 
 MONGODB_URI=<your-mongodb-uri>
 Seed the database (optional)
@@ -45,8 +46,7 @@ npm run seed
   
 ## Usage
 Start the server
-sql
-Copy code
+
 npm start
 Open the application in your browser
 Go to Link(updating soon) to view the application.
