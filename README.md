@@ -5,7 +5,7 @@
 This is an e-commerce project that allows users to order products.
 
 ## Table of Contents
-###Features
+### Features
 ### Requirements
 ### Installation
 ### Usage
