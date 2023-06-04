@@ -1,6 +1,6 @@
 # MERN-Project
 
-## E-Commerce Project
+## E-Commerce Project - 
 
 This is an e-commerce project that allows users to order products.
 
